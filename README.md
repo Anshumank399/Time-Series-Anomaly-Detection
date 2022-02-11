@@ -29,5 +29,4 @@ Anomaly detection on office temperature: Numenta Anomaly Benchmark (NAB) data.
     b. Possible inference: the office is in a cold region where the temperature is maintained by heating during working hours.   
 
     ![](https://github.com/Anshumank399/Time-Series-Anomaly-Detection/blob/main/images/working%20hours.png)
-
-## 2.   Anomaly Detection using Statistical Method (z-score).   
+ 
