@@ -36,4 +36,4 @@ Anomaly detection on office temperature: Numenta Anomaly Benchmark (NAB) data.
 ### Anomalies Detected using Prophet (ML Time Series Method)
 ![](https://github.com/Anshumank399/Time-Series-Anomaly-Detection/blob/main/images/prophet.png)
 
-*For More Details go through the Analysis Report.pdf file and the Jupyter Notebook. Do let me know if you try out something new. *
+*For More Details go through the Analysis Report.pdf file and the Jupyter Notebook. Do let me know if you try out something new.*
